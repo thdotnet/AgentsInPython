@@ -1,0 +1,6 @@
+--pre
+azure-ai-projects>=2.0.0b2
+azure-identity>=1.26.0b1
+agent-framework-core==1.0.0b260106
+agent-framework-azure-ai==1.0.0b260106
+pydantic>=2.12.5
